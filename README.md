@@ -3,6 +3,7 @@
 THis is a Java-based application designed to streamline train booking. With a user-friendly GUI, the system allows users to log in, make reservations, and cancel bookings efficiently. Key features include input fields for passenger details, train number, class type, journey date, and route information (from and to cities within Pakistan). Each reservation generates a unique PKR (Passenger Key Reservation) number for easy tracking and cancellation. This project demonstrates practical use of Java Swing for GUI, data handling with collections, and object-oriented principles, making it a versatile tool for reservation management.
 
 OUTPUT SCREENS ATTACHED:
+
 ![Screenshot 1](https://github.com/user-attachments/assets/0fb50f7b-c1e1-4f6c-8f1b-a987c19ab1fb)
 
 ![Screenshot 2](https://github.com/user-attachments/assets/c5f50525-1b5e-4b31-add1-fa65c3fd8e92)
