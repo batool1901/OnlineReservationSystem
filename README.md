@@ -1,4 +1,4 @@
-# OIBSIP_Task01_OnlineReservationSystem
+"OnlineReservationSystem"
 
 THis is a Java-based application designed to streamline train booking. With a user-friendly GUI, the system allows users to log in, make reservations, and cancel bookings efficiently. Key features include input fields for passenger details, train number, class type, journey date, and route information (from and to cities within Pakistan). Each reservation generates a unique PKR (Passenger Key Reservation) number for easy tracking and cancellation. This project demonstrates practical use of Java Swing for GUI, data handling with collections, and object-oriented principles, making it a versatile tool for reservation management.
 
